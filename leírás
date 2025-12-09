@@ -1,0 +1,34 @@
+Az alábbi három szoftvermegoldás a modern vállalkozásfejlesztés, a társadalmi hatásmérés és a stratégiai tervezés különböző fázisait támogatja. Közös jellemzőjük, hogy automatizált elemzésekkel és strukturált keretrendszerekkel segítik a döntéshozatalt.
+
+1. ImpactPilot – A társadalmi hatástervezés specialistája
+Ez a komplex rendszer végigkíséri a projekteket az ötlettől a megvalósításon át a hatásmérésig. Különlegessége a beépített „memória”: a központi tudástárba feltöltött dokumentumokat a rendszer megjegyzi, így azokat minden későbbi tervezési fázisnál automatikusan felhasználja háttérinformációként.
+
+A folyamat három fő lépése:
+
+Kontextus és tervezés: A feltöltött pályázatok vagy leírások alapján a szoftver segít felépíteni a logikai vázlatot (Változáselmélet - ToC) és meghatározni a legkisebb életképes terméket (MVP), valamint a fenntartható fejlődési célokat (SDG).
+
+Mérés és értékelés: A pénzügyi fenntarthatóság igazolását támogatja. Segít a KPI-ok meghatározásában, szabványos nemzetközi mutatókat (IRIS+) ajánl, és kiszámítja a társadalmi megtérülést (SROI) pénzügyi helyettesítő értékek használatával.
+
+Megvalósítás és kommunikáció: A kockázatok kezelése mellett támogatja a feladatmenedzsmentet (agilis módszertannal), sőt, a kapott eredményekből professzionális kommunikációs anyagokat (LinkedIn poszt, sajtóközlemény) is készít.
+
+2. Üzleti Modell Vászon (BMC) – Interaktív stratégiaalkotás
+Ez az alkalmazás a klasszikus Business Model Canvas digitális, interaktív változata, amely jelentősen felgyorsítja az üzleti koncepciók kidolgozását.
+
+Főbb funkciók:
+
+Automatikus ötletelés: A felhasználó manuálisan is kitöltheti a mezőket, de kérhet a rendszertől automatikus javaslatokat is az egyes szekciókhoz (pl. értékajánlat, ügyfélcsoportok), amelyeket egy kattintással beilleszthet.
+
+Vizuális elemzés: A szoftver nemcsak tárolja az adatokat, hanem vizuális riportokat is generál (pl. ügyfélút, értékesítési tölcsér), segítve az átláthatóságot.
+
+Egyszerű exportálás: A kész modell és az elemzések egy gombnyomással letölthetők vagy összefoglalóként exportálhatók.
+
+3. KKV Támogató Rendszer – Virtuális tanácsadó testület
+Kifejezetten a magyar kis- és középvállalkozások, valamint startupok számára készült eszköz, amely virtuális szakértők tudását teszi elérhetővé. A rendszer úgy működik, mintha egy teljes tanácsadói csapattal (pénzügyi, marketing, stratégiai szakemberekkel) konzultálna a felhasználó.
+
+Működési elv:
+
+Szerepkör-alapú tanácsadás: A felhasználó kiválasztja a szükséges szakértőt (pl. Piackutatási elemző, Pénzügyi tervező) egy strukturált listából.
+
+Személyre szabott elemzés: A vállalkozás adatainak megadása után a rendszer egy összetett szempontrendszer alapján elemzi a helyzetet.
+
+Gyakorlatias válaszok: A háttérben működő fejlett elemző motor azonnali, részletes stratégiai javaslatokat ad, amelyeket a felhasználó felhasználhat üzleti tervekhez vagy döntéselőkészítéshez.
